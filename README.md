@@ -5,8 +5,11 @@ Overview
 ---
 This is an [ndnSIM][ndnSIM] simulation scenario for testing the behavior of an in-axis cache placement strategy in a grid-like NDN network.
 
-The code is composed of several extension modules to the [ndnSIM] simulator and an example basic scenario in file `ndn-static-gric.cc`.
-The behavior of the in-axis placement strategy is to be described in a forthcoming academic article.
+The code is composed of several extension modules to the [ndnSIM] simulator and
+an example basic scenario in file `ndn-static-gric.cc`. The behavior of the
+in-axis placement strategy is described in the article [Cache Placement in an
+NDN Based LEO Satellite Network
+Constellation](https://doi.org/10.1109/TAES.2022.3227530).
 
 Usage
 ---
