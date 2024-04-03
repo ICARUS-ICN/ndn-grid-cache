@@ -1,6 +1,9 @@
 Simulation Environment for Trying Cache Placement Strategies on a Grid-Like NDN Network
 ===
 
+[![DOI](https://zenodo.org/badge/503401611.svg)](https://zenodo.org/doi/10.5281/zenodo.10912635)
+
+
 Overview
 ---
 This is an [ndnSIM][ndnSIM] simulation scenario for testing the behavior of an in-axis cache placement strategy in a grid-like NDN network.
